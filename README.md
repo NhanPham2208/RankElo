@@ -82,7 +82,7 @@ Plugin có file cấu hình chi tiết cho phép tùy chỉnh:
 
 ### Hệ thống mùa giải
 - Bật/tắt chức năng mùa giải
-- Thời gian giữa các mùa giải (phút)
+- Thời gian giữa các mùa giải (tháng)
 - Thông báo khi kết thúc mùa giải
 - Tự động reset điểm Elo về mặc định khi kết thúc mùa
 - Cài đặt giao diện GUI (tiêu đề, số hàng, hiển thị item)
